@@ -16,7 +16,9 @@ Esse projeto do Card de Perfil de Usuário do GitHub foi desenvolvido com as seg
 
 ## 💻 Projeto
 
-<em aling="center">Essa página geralmente é usada na biografia do perfil do Instagram para facilitar o acesso dos seguidores a várias informações e links relevantes. Com o uso do Next.js, é possível criar uma página dinâmica e altamente personalizável que se adapte às suas necessidades. Você pode incluir links para suas redes sociais, site pessoal, produtos, serviços ou qualquer outra coisa que deseje destacar para sua audiência do Instagram.</em>
+<em aling="center">Essa página geralmente é usada na biografia do perfil do Instagram para facilitar o acesso dos seguidores a várias informações e links relevantes. Com o uso do Next.js, é possível criar uma página dinâmica e altamente personalizável que se adapte às suas necessidades. Você pode incluir links para suas redes sociais, site pessoal, produtos, serviços ou qualquer outra coisa que deseje destacar para sua audiência do Instagram.
+
+obs: esse projeto é de código aberto para quem deseja utlizar no seu perfil! :)</em>
 
 <br>
 
