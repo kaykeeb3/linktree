@@ -24,18 +24,30 @@ export default function PageHome(){
       <div className="flex items-center justify-center w-full">
         <main>
           <ul className="m-2">
-            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Link href="https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=" /><Instagram />Instagram</li>
-            <li className="bg-purple-600 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Link href="https://www.linkedin.com/in/kayke-barbosa-15a96023a" /><Github />Github</li>
-            <li className="bg-purple-600 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Link href="https://github.com/Kayke-Ti" /><Linkedin />Linkedin</li>
-            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Link href="https://traininggenerator.vercel.app/" /><Dumbbell  />TrainingGenerator</li>
-            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Link href="https://githubcardprofile.vercel.app/" /><MonitorSmartphone  />GithubCard</li>
-            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Link href="https://repositoriesgithub.vercel.app/" /><User2 />RepositoriesGithub</li>
+            {/* 1° */}
+            <Link href="https://instagram.com/kaykee_bl?igshid=ZDdkNTZiNTM=">
+            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Instagram />Instagram</li></Link>
+            {/* 2° */}
+            <Link href="https://www.linkedin.com/in/kayke-barbosa-15a96023a">
+            <li className="bg-purple-600 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Linkedin />Linkedin</li></Link>
+            {/* 3° */}
+            <Link href="https://github.com/Kayke-Ti">
+            <li className="bg-purple-600 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Github />Github</li></Link>
+            {/* 4° */}
+            <Link href="https://traininggenerator.vercel.app/">
+            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><Dumbbell />TrainingGenerator</li></Link>
+            {/* 5° */}
+            <Link href="https://githubcardprofile.vercel.app/">
+            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><MonitorSmartphone />GithubCard</li></Link>
+            {/* 6° */}
+            <Link href="https://repositoriesgithub.vercel.app/">
+            <li className="bg-purple-500 h-11 flex items-center justify-center w-[300px] mb-4 rounded-lg gap-1 hover:bg-purple-600/70"><User2 />RepositoriesGithub</li></Link>
           </ul>
         </main>
       </div>
       <footer className="w-full text-center text-xs m-4 text-zinc-300">
       <Link 
-        href="#" 
+        href="https://github.com/Kayke-Ti" 
         target="_blank"
       >
         ©Copyright 2023 - Todos os direitos reservados
