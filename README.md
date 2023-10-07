@@ -7,8 +7,6 @@ Um Linktree para o Instagram usando Next.js é uma página web personalizada cri
 </p>
 
 ### 🚀 Tecnologias
-Esse projeto do Card de Perfil de Usuário do GitHub foi desenvolvido com as seguintes tecnologias:
-
 - Next.Js
 - Typescript
 - Tailwindcss
